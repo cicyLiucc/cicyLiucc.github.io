@@ -2,10 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54178/categories/</loc>
+    <loc>https://cicyliucc.github.io/</loc>
+    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:54178/</loc>
+    <loc>https://cicyliucc.github.io/tags/meow/</loc>
+    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:54178/tags/</loc>
+    <loc>https://cicyliucc.github.io/p/mysterious-meow/</loc>
+    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://cicyliucc.github.io/post/</loc>
+    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://cicyliucc.github.io/tags/</loc>
+    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://cicyliucc.github.io/p/friends/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
+  </url><url>
+    <loc>https://cicyliucc.github.io/tags/rawr/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
+  </url><url>
+    <loc>https://cicyliucc.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cicyliucc.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cicyliucc.github.io/categories/</loc>
+  </url><url>
+    <loc>https://cicyliucc.github.io/search/</loc>
   </url>
 </urlset>
